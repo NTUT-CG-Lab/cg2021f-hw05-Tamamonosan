@@ -1,0 +1,2 @@
+Medium baseline部分
+題目要求gui要跟角色同時切換，參考model_data.json的數值更新Morph數值，但並未找到model_data.json中Morph數值的值域範圍以供正規化，因此畫面顯示較為神秘。
